@@ -3,8 +3,9 @@ English | Português
 
 <a name="english"></a>
 
-English
-Overview
+English <br>
+
+Overview <br>
 This project implements a solution for merging two sorted linked lists into a single sorted linked list. It's a common algorithm problem that demonstrates fundamental concepts of linked list manipulation.
 
 Problem Statement
@@ -20,10 +21,10 @@ Run the Main class to see the example in action
 Tests
 The project includes unit tests that verify the solution works correctly for various scenarios including empty lists and lists of different lengths.
 
-<a name="português"></a>
+<a name="português"></a><br>
 
-Português
-Visão Geral
+Português <br>
+Visão Geral<br>
 Este projeto implementa uma solução para mesclar duas listas encadeadas ordenadas em uma única lista encadeada ordenada. É um problema de algoritmo comum que demonstra conceitos fundamentais de manipulação de listas encadeadas.
 
 Descrição do Problema
